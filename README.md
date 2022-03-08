@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">Jr. Frontend Developer from Istanbul</h3>
 
-- 🌱 I’m developing project with React.js I'm currently learning Vue.js 
+- 🌱 I’m developing project with React.js.   I'm currently learning Vue.js 
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/mehmetbatuhanyilmaz](https://www.behance.net/mehmetbatuhanyilmaz)
 
