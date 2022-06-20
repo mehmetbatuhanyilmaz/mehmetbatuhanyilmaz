@@ -20,5 +20,4 @@
 <a href="https://instagram.com/chevalierphoebus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chevalierphoebus" height="30" width="40" /></a>
 <a href="https://www.behance.net/mehmetbatuhanyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mehmetbatuhanyilmaz" height="30" width="40" /></a>
 </p>
-.
 
