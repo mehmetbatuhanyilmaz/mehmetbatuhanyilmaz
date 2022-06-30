@@ -26,7 +26,7 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-mehmetbatuhanyilmaz
+https://github-readme-streak-stats.herokuapp.com/?user=mehmetbatuhanyilmaz
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehmetbatuhanyilmaz&theme=dark)](https://git.io/streak-stats)
 
