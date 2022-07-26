@@ -28,5 +28,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetbatuhanyilmaz&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetbatuhanyilmaz&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
 
----
+--- 
 
