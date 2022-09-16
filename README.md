@@ -2,7 +2,7 @@
 <h3 align="center"> Frontend Developer from Istanbul</h3>
 
 - 🌱 I’m developing project with React.js & Vue.js 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/mehmetbatuhanyilmaz](https://www.behance.net/mehmetbatuhanyilmaz)
+- 👨‍💻 All of my projects are available at [https://www.behance.net/mehmetbatuhanyilmaz](https://www.behance.net/mehmetbatuhanyilmaz) & [https://mehmetbatuhanyilmaz.github.io/](https://mehmetbatuhanyilmaz.github.io/)
 - 📫 How to reach me **mbatuhanylmz@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/mehmetbatuhanyilmaz1996/](https://www.linkedin.com/in/mehmetbatuhanyilmaz1996/) 
 ---
